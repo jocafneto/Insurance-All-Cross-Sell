@@ -1,21 +1,21 @@
 # Insurance-All-Cross-Sell
-A classification project that uses ML Model to learn to rank their customers to sell a company's new product
+-  A **classification project** that uses ML Model to **learn to rank** their customers to sell a **company's new product**.
 
 ## **Company Name:**
 
-Insurance All Company
+-  **Insurance All Company**
 
 ## **What the Company do?**
 
-Sell health insurance to its customers.
+-  Sell **health insurance** to its customers.
 
 ## **What's the business problem?**
 
-The company is trying to know which are the best customers to offer its new product, auto insurance.
+-  The **company** is trying to know which are **the best customers** to **offer** its new product, **auto insurance**.
 
 ## **Which are the main strategy?**
 
-The company will call initially 5.000 customers, so we need to know which to call.
+-  The **company** will call initially **5.000 customers**, so we need to know which to call.
 
 ## **What kind of question we need to answer?**
 
